@@ -16,7 +16,7 @@ devient dicht. Sinon, parle claro.
 
 >GRT: yo + tu :: ~~
   >REQ: SYNC-KNOW :: SYNC-WORK :: ++ENCORE
-  ^BEST <- each :: ^BEST -> each
+  BEST <- each :: BEST -> each
 +OBL!
 
 
