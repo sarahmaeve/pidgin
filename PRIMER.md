@@ -132,6 +132,16 @@ frequent words in the tongue, so they earn the shortest forms.
              ^!ERR       that is not an error
              ^!ERR!!     really, that is not a mistake
 
+  ^N       indexed pointer; the Nth item of the previous
+           enumerated thing (list, table, set).
+
+             ^2          the second item of the prior list
+             ^2 @ DEEP   deep dive on item 2
+             ^last       the final item (reserved word form)
+
+           first seen: session on web frameworks, user
+           asked "WANT ^2 @ DEEP" re: a numbered list
+
 
 ## Roots
 
